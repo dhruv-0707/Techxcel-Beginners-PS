@@ -1,4 +1,5 @@
 import React from 'react';
+import img from '../images/C2C.png';
 import { Code2, Bot, Sparkles, CheckCircle2, Award, Brain } from 'lucide-react';
 
 function App() {
