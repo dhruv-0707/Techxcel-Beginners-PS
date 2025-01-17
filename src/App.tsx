@@ -1,5 +1,5 @@
 import React from 'react';
-import img from '../images/C2C.png';
+import logo from '../images/C2C.png';
 import { Code2, Bot, Sparkles, CheckCircle2, Award, Brain } from 'lucide-react';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
           <div className="flex items-center gap-2">
             <Code2 size={32} className="text-blue-400" />
             <img 
-              src="../images/C2C.png" 
+              src={logo} 
               alt="C2C Logo" 
               className="w-16 h-16 rounded-full border-2 border-blue-400 shadow-lg"
             />
