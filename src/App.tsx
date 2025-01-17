@@ -10,7 +10,7 @@ function App() {
           <div className="flex items-center gap-2">
             <Code2 size={32} className="text-blue-400" />
             <img 
-              src="images/C2C.png" 
+              src="../images/C2C.png" 
               alt="C2C Logo" 
               className="w-16 h-16 rounded-full border-2 border-blue-400 shadow-lg"
             />
